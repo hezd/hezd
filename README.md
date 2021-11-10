@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**hezd/hezd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Here are some ideas to get you started:
+![](https://visitor-badge.glitch.me/badge?page_id=hezd.hezd) ![](https://img.shields.io/github/last-commit/hezd/hezd)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+Hi, I'm Hezd, a Android developer from China.
+
+
+- 👨 I’m currently working on bizconf.
+
+- 🌱 I’m currently learning Android in-depth.
+
+- 🤔 I’m going to improve Algorithms.
+
+- 😜 I'm really interested in Flutter right now.
+
+- 💬 Ask me about anything, I am happy to help.
+
+
+
+<br />
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+![Redis](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+
+
+<div>📈&nbsp;&nbsp;Hezd's GitHub Stats</div>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hezd&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=hezd&show_icons=true\&hide=stars,issues)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hezd)
+
