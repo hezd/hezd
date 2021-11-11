@@ -2,11 +2,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hezd.hezd) ![](https://img.shields.io/github/last-commit/hezd/hezd)
-
 <br />
 
 Hi, I'm Hezd, a Android developer from China.
-
 
 - 👨 I’m currently working on bizconf.
 
