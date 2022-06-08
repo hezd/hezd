@@ -1,5 +1,5 @@
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hezd.hezd) ![](https://img.shields.io/github/last-commit/hezd/hezd)
 <br />
