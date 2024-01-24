@@ -6,7 +6,7 @@
 
 Hi, I'm Hezd, a Android developer from China.
 
-- 👨 I’m currently working on bizconf.
+- 👨 I’m currently working on Full Truck Alliance.
 
 - 🌱 I’m currently learning Android in-depth.
 
